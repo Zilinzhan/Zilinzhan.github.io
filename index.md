@@ -12,6 +12,7 @@ I am a first-year Ph.D. Candidate at Beijing Jiaotong University (BJTU). Here I 
 - In general: Machine Learning, Natural Language Processing
 - Multi-label Text Classification
 - Imbalanced/Long-tailed Classification
+
 ***
 
 # Education
@@ -19,12 +20,13 @@ I am a first-year Ph.D. Candidate at Beijing Jiaotong University (BJTU). Here I 
 <br>
 Beijing Jiaotong University, Computer science and technology
 <br>
-- 2015 - 2019, Master.
+- 2019 - 2021, Master.
 <br>
 Beijing Jiaotong University, Statistics
 - 2015 - 2019, B.S.
 <br>
 Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](http://sci.bjtu.edu.cn/cms/item/157.html){:target="_blank"})
+
 ***
 
 # Publications
