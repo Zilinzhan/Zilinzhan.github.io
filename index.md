@@ -8,6 +8,25 @@ I am a first-year Ph.D. Candidate at Beijing Jiaotong University (BJTU). Here I 
 
 ***
 
+# Research Interests
+- In general: Machine Learning, Natural Language Processing
+- Multi-label Text Classification
+- Imbalanced/Long-tailed Classification
+***
+
+# Education
+- 2021 - Now, Ph.D. candidate
+<br>
+Beijing Jiaotong University, Computer science and technology
+<br>
+- 2015 - 2019, Master.
+<br>
+Beijing Jiaotong University, Statistics
+- 2015 - 2019, B.S.
+<br>
+Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](http://sci.bjtu.edu.cn/cms/item/157.html){:target="_blank"})
+***
+
 # Publications
 
 - **Bayesian Additive Matrix Approximation for Social Recommendation**
