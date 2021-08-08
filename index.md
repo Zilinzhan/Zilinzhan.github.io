@@ -66,7 +66,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 
 # 兴趣爱好
 
-- **读书**, 尤其喜欢心理、历史、传记类.(几本好书:[《李明博自传·经营未来》](https://book.douban.com/subject/3020605/){:target="_blank"}，[《李开复自传》](https://book.douban.com/subject/4010196/){:target="_blank"}，[《心流》](https://book.douban.com/subject/27186106/){:target="_blank"}，[《刻意练习》](https://book.douban.com/subject/26895993/){:target="_blank"})
+- **读书**, 尤其喜欢心理、历史、传记类(几本好书:[《李明博自传·经营未来》](https://book.douban.com/subject/3020605/){:target="_blank"},[《李开复自传》](https://book.douban.com/subject/4010196/){:target="_blank"},[《我的几何人生》](https://book.douban.com/subject/35308863/){:target="_blank"},[《心流》](https://book.douban.com/subject/27186106/){:target="_blank"},[《刻意练习》](https://book.douban.com/subject/26895993/){:target="_blank"}).
 - **健身**,  坚持游泳和健身,锻炼体魄.为祖国健康工作五十年.
 - **主持**,  原校主持人队队员,主持学校最大文艺汇演 “一二九”文艺汇演、[毕业晚会](http://news.bjtu.edu.cn/info/1044/29933.htm){:target="_blank"}、毕业歌会等30余场,演讲百余场.
 - **话剧**,  原校话剧团成员,话剧《茅以升》中担任12主演之一,曾随[《茅以升》](https://www.zju.edu.cn/2017/0928/c32859a643504/page.htm){:target="_blank"}剧组赴浙江大学巡演.
