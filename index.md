@@ -41,12 +41,11 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   <br>
   **徐鹏宇**, 刘华锋, 刘冰, 景丽萍, 于剑
   <br>
-  软件学报, 2021(In revison, **CCF-A类中文期刊**)
+  软件学报, 2021(Accepted, **CCF-A类中文期刊**)
 - **Topic-Aware Tag Recommendation for Textual Content**
   <br>
   **Pengyu Xu**, Mingxuan Xia, Lin Xiao, Huafeng Liu, Liping Jing, Jian Yu
   <br>
-  ACML, 2021(In revison, **CCF-C**)
   [[Code]](https://github.com/vsssssssss/TATR){:target="_blank"}
 
 ***
