@@ -4,7 +4,7 @@ layout: homepage
 
 # Biography
 
-I am a second-year Ph.D. Candidate at Beijing Jiaotong University (BJTU). Here I am lucky enough to work with Prof. [Yacan Wang](http://sem.bjtu.edu.cn/show-594-83.html){:target="_blank"}.  
+I am a second-year Ph.D. Candidate at Beijing Jiaotong University (BJTU).{:target="_blank"}.  
 
 ***
 
