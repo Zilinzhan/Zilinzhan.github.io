@@ -37,17 +37,24 @@ Yacan Wang, **Zilin Zhan**, Yuhan Mi, Anae Sobhani, Huiyu Zhou*
 Transportation Research Part D: Transport and Environment, 2022. 104, 103194 (JCR Q1, ABS 3)
 
 ## Working Papers
-- **Analysis of links between dockless bikeshare and metro trips in Beijing**
-<br>
-**Zilin Zhan**, Yuanyuan Guo, Robert B. Noland, Yacan Wang*, Sylvia Y. He
-<br>
-Transportation Research Part A: Practice and Policy, under review (JCR Q1, ABS 3)
+### Behavioral/experimental Economics:
 - **Nudging by Firms: Experimental Evidence from Bikeshare Market**
 <br>
 with Yacan Wang and Erte Xiao
 - **Nudging the disorderly parking behavior of bikesharing: Evidence from a large-scale field experiment (in Chinese)**
 <br>
 with Haoran He and Yacan Wang
+
+### Travel Behavior and Big data:
+- **Analysis of links between dockless bikeshare and metro trips in Beijing**
+<br>
+**Zilin Zhan**, Yuanyuan Guo, Robert B. Noland, Yacan Wang*, Sylvia Y. He
+<br>
+Transportation Research Part A: Practice and Policy, under review (JCR Q1, ABS 3)
+- **Exploring the impact of spatial accessibility on the integration of dockless bike-sharing and the metro: Evidence from Beijing**
+<br>
+with JingJing Li, Yacan Wang, and Xiaolan Yang
+
 
 ***
 
