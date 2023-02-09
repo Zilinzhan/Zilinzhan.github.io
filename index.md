@@ -6,7 +6,7 @@ layout: homepage
 
 My name is Zilin Zhan (詹紫琳). I am a 3rd year Ph.D. candidate in Economics, at the School of Economics and Management at Beijing Jiaotong University. I am currently supervised by Prof. [Yacan Wang](http://sem.bjtu.edu.cn/show-594-83.html) in the Department of Economics. Now I am a Doctoral Visiting Researcher in the Department of Economics at Monash University and cooperated with the eminent economist Prof. [Erte Xiao](https://sites.google.com/site/ertexiao/). 
 
-My research interests lie in behavioral/experimental economics, environmental economics, and public economics. Currently, I am focused on researching how to apply randomized controlled trials (RCTs) to promote pro-social behaviors such as green transportation and energy conservation. While studying for my master's degree, I was also interested in applying big data and machine learning to travel behavior analysis. 
+My research interests lie in Behavioral and Experimental economics, Environmental economics, Transportation economics,and Public economics. Currently, I am focused on researching how to apply randomized controlled trials (RCTs) to promote pro-social behaviors such as green transportation and energy conservation. While studying for my master's degree, I was also interested in applying big data and machine learning to travel behavior analysis. 
 
 ***
 
