@@ -42,7 +42,7 @@ Transportation Research Part D: Transport and Environment, 2022. 104, 103194 (JC
 Transportation Research Part A: Practice and Policy, under review (JCR Q1, ABS 3)
 
 ## Research in Progress
-### Behavioral/experimental Economics:
+#### Behavioral/experimental Economics:
 - **Nudging by Firms: Experimental Evidence from Bikeshare Market**
 <br>
 with Yacan Wang and Erte Xiao
@@ -50,7 +50,7 @@ with Yacan Wang and Erte Xiao
 <br>
 with Haoran He and Yacan Wang
 
-### Travel Behavior and Big data:
+#### Travel Behavior and Big data:
 - **Exploring the impact of spatial accessibility on the integration of dockless bike-sharing and the metro: Evidence from Beijing**
 <br>
 with JingJing Li, Yacan Wang, and Xiaolan Yang
