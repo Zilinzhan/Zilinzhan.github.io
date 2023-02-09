@@ -14,13 +14,13 @@ My research interests lie in Behavioral and Experimental economics, Environmenta
 - 2020 - Now, Ph.D. candidate
 <br>
 Beijing Jiaotong University, Applied Economics
-- 2019 - 2020, Master.
+- 2019 - 2020, Master
 <br>
 Beijing Jiaotong University, Industrial Economics
 - 2016 - 2020, B.S.
 <br>
 Beijing Jiaotong University, Information and Computing Science
-- 2015 - 2019, B.S.
+- 2015 - 2019, B.S. (double degree)
 <br>
 Beijing Jiaotong University, Economics
 
