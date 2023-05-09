@@ -38,12 +38,12 @@ Beijing Jiaotong University, Economics
 <br>
 Yacan Wang, **Zilin Zhan**, Yuhan Mi, Anae Sobhani, Huiyu Zhou*
 <br>
-Transportation Research Part D: Transport and Environment, 2022. 104, 103194 (JCR Q1, ABS 3)
+Transportation Research Part D: Transport and Environment, 2022. 104, 103194 (JCR Q1, ABS 3, ABDC-A)
 - **Analysis of links between dockless bikeshare and metro trips in Beijing**
 <br>
 **Zilin Zhan**, Yuanyuan Guo, Robert B. Noland, Yacan Wang*, Sylvia Y. He
 <br>
-Transportation Research Part A: Practice and Policy, Revise and Resubmit (JCR Q1, ABS 3)
+Transportation Research Part A: Practice and Policy, Revise and Resubmit (JCR Q1, ABS 3, ABDC-A*)
 
 ## Research in Progress
 #### Behavioral/experimental Economics:
