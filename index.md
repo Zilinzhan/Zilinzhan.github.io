@@ -43,7 +43,7 @@ Transportation Research Part D: Transport and Environment, 2022. 104, 103194 (JC
 <br>
 **Zilin Zhan**, Yuanyuan Guo, Robert B. Noland, Yacan Wang*, Sylvia Y. He
 <br>
-Transportation Research Part A: Practice and Policy, Revise and Resubmit (JCR Q1, ABS 3, ABDC-A\*)
+Transportation Research Part A: Practice and Policy, accepted (JCR Q1, ABS 3, ABDC-A\*)
 
 ## Research in Progress
 #### Behavioral/experimental Economics:
