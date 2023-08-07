@@ -41,7 +41,7 @@ Yacan Wang, **Zilin Zhan**, Yuhan Mi, Anae Sobhani, Huiyu Zhou*
 Transportation Research Part D: Transport and Environment, 2022, 104, 103194 (JCR Q1, ABS 3, ABDC-A)
 - **Analysis of links between dockless bikeshare and metro trips in Beijing**
 <br>
-**Zilin Zhan**, Yuanyuan Guo, Robert B. Noland, Yacan Wang*, Sylvia Y. He
+**Zilin Zhan**, Yuanyuan Guo, Robert B. Noland, Sylvia Y. He, Yacan Wang*
 <br>
 Transportation Research Part A: Practice and Policy, 2023, 175, 103784 (JCR Q1, ABS 3, ABDC-A\*)
 
