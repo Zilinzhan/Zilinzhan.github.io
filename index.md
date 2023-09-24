@@ -34,6 +34,7 @@ Beijing Jiaotong University, Economics
 
 
 ## Publications
+### Travel Behavior and Big data:
 - **Analysis of links between dockless bikeshare and metro trips in Beijing**
 <br>
 **Zilin Zhan**, Yuanyuan Guo, Robert B. Noland, Sylvia Y. He, Yacan Wang*
@@ -45,20 +46,19 @@ Yacan Wang, **Zilin Zhan**, Yuhan Mi, Anae Sobhani, Huiyu Zhou*
 <br>
 Transportation Research Part D: Transport and Environment, 2022, 104, 103194 (JCR Q1, ABS 3, ABDC-A)
 
+## Working Papers
+- **Examining the Impact of Station Location on Dockless Bikesharing-Metro Integration: Evidence from Beijing**
+<br>
+with Yacan Wang, JingJing Li, Xiaolan Yang, Yuanyuan Guo and Jingjing Li
+
 ## Research in Progress
-#### Behavioral/experimental Economics:
+### Behavioral/Experimental Economics:
 - **Nudging by Firms: Experimental Evidence from Bikeshare Market**
 <br>
 with Yacan Wang and Erte Xiao
 - **Nudging the disorderly parking behavior of bikesharing: Evidence from a large-scale field experiment (in Chinese)**
 <br>
 with Haoran He and Yacan Wang
-
-#### Travel Behavior and Big data:
-- **Exploring the impact of spatial accessibility on the integration of dockless bike-sharing and the metro: Evidence from Beijing**
-<br>
-with JingJing Li, Yacan Wang, and Xiaolan Yang
-
 
 ***
 
