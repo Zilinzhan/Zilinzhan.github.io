@@ -63,8 +63,7 @@ with Yacan Wang and Erte Xiao
 with Haoran He and Yacan Wang
 
 ## Policy Papers
-- **《依托大数据精准促进慢行与公共交通三网融合，助力居民低碳出行》(Enhancing Low-Carbon Travel through Precise Integration of Walking, Cycling, and Public Transportation Networks Using Big Data)
-**
+- **《依托大数据精准促进慢行与公共交通三网融合，助力居民低碳出行》(Enhancing Low-Carbon Travel through Precise Integration of Walking, Cycling, and Public Transportation Networks Using Big Data)**
 <br>
 with Yacan Wang, Siqi Jia, and Chao Wang
 <be>
