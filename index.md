@@ -12,21 +12,15 @@ My research interests lie in Behavioral and Experimental economics, Environmenta
 ***
 
 # Education
-- 2020 - Now, Ph.D. candidate
+- 2019 - Now, Ph.D. candidate
 <br>
 Beijing Jiaotong University, Applied Economics
 - 2023 - 2024, Doctoral Visiting Researcher
 <br>
 Monash University, Department of Economics
-- 2019 - 2020, Master
+- 2015 - 2020, B.S. 
 <br>
-Beijing Jiaotong University, Industrial Economics
-- 2016 - 2020, B.S.(double degree)
-<br>
-Beijing Jiaotong University, Information and Computing Science
-- 2015 - 2019, B.S. 
-<br>
-Beijing Jiaotong University, Economics
+Beijing Jiaotong University, Economics (main) &  Information and Computing Science (double degree)
 
 ***
 
@@ -66,7 +60,7 @@ with Haoran He and Yacan Wang
 - **《依托大数据精准促进慢行与公共交通三网融合，助力居民低碳出行》(Enhancing Low-Carbon Travel through Precise Integration of Walking, Cycling, and Public Transportation Networks Using Big Data)**
 <br>
 with Yacan Wang, Siqi Jia, and Chao Wang
-<be>
+<br>
 《北京交通决策参考》(Beijing Transport Institute), Dec 2022
 
 
