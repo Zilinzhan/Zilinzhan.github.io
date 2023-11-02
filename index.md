@@ -51,7 +51,7 @@ Transportation Research Part D: Transport and Environment, 2022, 104, 103194 (JC
 <br>
 with Yacan Wang, JingJing Li, Xiaolan Yang, Yuanyuan Guo and Jingjing Li
 <br>
-Submitted
+Under review, Travel Behaviour and Society 
 
 ## Research in Progress
 ### Behavioral/Experimental Economics:
