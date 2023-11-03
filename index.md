@@ -57,19 +57,20 @@ with Yacan Wang and Erte Xiao
 with Haoran He and Yacan Wang
 
 ## Policy Papers
-- **《依托大数据精准促进慢行与公共交通三网融合，助力居民低碳出行》(Enhancing Low-Carbon Travel through Precise Integration of Walking, Cycling, and Public Transportation Networks Using Big Data)**
+- **Enhancing Low-Carbon Travel through Precise Integration of Walking, Cycling, and Public Transportation Networks**
 <br>
 with Yacan Wang, Siqi Jia, and Chao Wang
 <br>
-《北京交通决策参考》(Beijing Transport Institute), Dec 2022
+Beijing Transport Institute, Dec 2022
 
 
 ***
 
 ## Honors and Awards
+- **The Postgraduate Innovation Fund Projects, Beijing Jiaotong University**,2021-2023
+  
 - **National Scholarship for Studying Abroad, China Scholarship Council**, 2022.
-- **First-Class Scholarship, Beijing Jiaotong University**, 2021-2022.
-- **The Postgraduate Innovation Fund Projects, Beijing Jiaotong University**,2021-2023 
+- **First-Class Scholarship, Beijing Jiaotong University**, 2021, 2022, 2023.
 - **Ali Research Award, Alibaba Group**, 2020-2021.
 
 - **Best Paper Award, Behavioral and Experimental Economic Forum**, 2022.
