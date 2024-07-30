@@ -57,8 +57,7 @@ Beijing Transport Institute, Dec 2022
 
 ## Honors and Awards
 - **The Postgraduate Innovation Fund Projects, Beijing Jiaotong University**,2021-2023
-  
-- **National Scholarship for Studying Abroad, China Scholarship Council**, 2022.
+
 - **First-Class Scholarship, Beijing Jiaotong University**, 2021, 2022, 2023.
 - **Ali Research Award, Alibaba Group**, 2020-2021.
 
