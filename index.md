@@ -2,13 +2,6 @@
 layout: homepage
 ---
 
-# About Me
-
-My name is Zilin Zhan (詹紫琳). I am a 3rd year Ph.D. candidate in Economics, at the School of Economics and Management at Beijing Jiaotong University. My supervisor is Prof. [Yacan Wang](http://sem.bjtu.edu.cn/show-594-83.html) and I am currently a visiting Ph.D. student at Department of Economics, Monash University.
-
-
-My research interests lie in Behavioral and Experimental economics, Environmental economics, Transportation economics,and Public economics. Currently, I am focusing on how to apply randomized controlled trials (RCTs) to promote prosocial behaviors such as green transportation and energy saving. I was previously interested in applying big data and machine learning to analyze travel behavior. 
-
 ***
 
 # Education
@@ -39,20 +32,16 @@ Transportation Research Part A: Practice and Policy, 2023, 175, 103784 (JCR Q1, 
 Yacan Wang, **Zilin Zhan**, Yuhan Mi, Anae Sobhani, Huiyu Zhou*
 <br>
 Transportation Research Part D: Transport and Environment, 2022, 104, 103194 (JCR Q1, ABS 3, ABDC-A)
+- **Examining the impact of station location on dockless bikesharing-metro integration: Evidence from Beijing**
+<br>
+Yacan Wang, JingJing Li, Xiaolan Yang, Yuanyuan Guo, Jingjing Ren and **Zilin Zhan**
+<br>
+Travel Behaviour and Society, 37, 100835.
 
-## Working Papers
-- **Examining the Impact of Station Location on Dockless Bikesharing-Metro Integration: Evidence from Beijing**
-<br>
-with Yacan Wang, JingJing Li, Xiaolan Yang, Yuanyuan Guo and Jingjing Li
-<br>
-Under review, Travel Behaviour and Society 
 
 ## Research in Progress
 ### Behavioral/Experimental Economics:
-- **Nudging by Firms: Experimental Evidence from Bikeshare Market**
-<br>
-with Yacan Wang and Erte Xiao
-- **Nudging the disorderly parking behavior of bikesharing: Evidence from a large-scale field experiment (in Chinese)**
+- **Nudging the disorderly parking behavior of bikesharing: Evidence from a large-scale field experiment **
 <br>
 with Haoran He and Yacan Wang
 
